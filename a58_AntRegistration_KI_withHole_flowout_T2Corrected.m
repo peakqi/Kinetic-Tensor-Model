@@ -1,0 +1,6 @@
+
+function a58_AntRegistration_KI_withHole_flowout_T2Corrected
+
+'a58_AntRegistration_KI_withHole_flowout_T2Corrected'
+
+system('sh a58_AntsApplyTransform.sh')
